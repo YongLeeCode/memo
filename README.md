@@ -21,5 +21,5 @@ If you run this program, there are some choices.
 {Make a list of websites that you found helpful in this project}
 * [programiz site](https://www.programiz.com/kotlin-programming/if-expression)
 * [kotlin basic syntax](https://kotlinlang.org/docs/basic-syntax.html)
-* [youtube](https://youtu.be/jOqV9sdMYJw)
+* [youtube](https://www.youtube.com/watch?v=fQHcZCocgow)
 
